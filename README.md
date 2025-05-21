@@ -10,9 +10,9 @@
 ## 🛠️ Technologies & Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Photon](https://img.shields.io/badge/Photon-1A75CF?style=flat&logo=photon&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Fork](https://img.shields.io/badge/Fork-795548?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📁 Repositories
 > 현재 일부 프로젝트는 다음과 같은 이유로 비공개로 유지되고 있습니다:
