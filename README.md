@@ -5,7 +5,7 @@
 ## 🧑‍💻 About Me
 - 🎮 Game Developer
 - 💡 Unity / C# 기반 게임 개발 경험
-- 🧠 끊임없이 배우고 성장하는 개발자
+- 🔍 문제를 탐구하고 해결하는 걸 즐기는 개발자
 
 ## 🛠️ Technologies & Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
